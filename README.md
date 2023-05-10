@@ -1,4 +1,4 @@
-# Awesome Books: Ometman & Porag [Pair Programming]
+# Awesome Books ES6: JS Modular Restructure
 <a name="readme-top"></a>
 
 <div align="center">
