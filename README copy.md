@@ -1,10 +1,10 @@
-# Awesome Books ES6: JS Modular Restructure
+# Awesome Books: Ometman & Porag [Pair Programming]
 <a name="readme-top"></a>
 
 <div align="center">
   <img src="./porag-logo.png" alt="logo" width="140"  height="auto" />
   <br/>
-  <h3><b>Awesome Books ES6: JS Modular Restructure</b></h3>
+  <h3><b>Awesome Books: Ometman & Porag [Pair Programming]</b></h3>
   <h5>Raw HTML CSS &amp; JS CURD Application that makes use of managing data dynamically using Javascript. Along with dynamic modification of the DOM on different Events.<h5>
 </div>
 
